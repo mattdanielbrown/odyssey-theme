@@ -14,7 +14,7 @@
 		"format": "npx prettier -w ."
 	},
 	"devDependencies": {
-		"@astrojs/lit": "^4.0.1",
+		"@astrojs/lit": "^4.3.0",
 		"@astrojs/mdx": "^2.1.1",
 		"@astrojs/sitemap": "^0.1.0",
 		"@iconify-json/ic": "^1.1.17",
